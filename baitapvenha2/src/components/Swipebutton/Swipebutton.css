@@ -1,0 +1,14 @@
+.swipeButtons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 500px;
+}
+
+.icons{
+    border: solid;
+    border-radius: 50%;
+    border-width: 1px;
+    box-shadow: 1px 1px px #000000
+}

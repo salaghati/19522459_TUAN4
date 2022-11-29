@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+    border: solid;
+    border-radius: 10px;
+    margin: 2rem 200px;
+    box-shadow: 2px;
+  }
+  
+  .header_logo {
+    width: 50px;
+    height: 30px;
+  }
+
+  .header-icon{
+    width: 30px;
+    height: 30px;
+  }
